@@ -1,0 +1,25 @@
+# Archivos Python compilados
+__pycache__/
+*.py[cod]
+
+# Entornos virtuales
+venv/
+.env/
+
+# Notebooks temporales
+*.ipynb_checkpoints/
+
+# Modelos
+*.h5
+*.pt
+*.ckpt
+
+# Config VS Code y macOS
+.vscode/
+.DS_Store
+
+# Archivos de configuración de Streamlit
+.streamlit/
+
+# Archivos sensibles
+.env
