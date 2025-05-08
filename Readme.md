@@ -1,8 +1,8 @@
-# *Unstructured Data course*
+# **Unstructured Data course**
 
-# **Text project**
+# *Image project*
 
-## ** Pneumonia Detection**
+## **Pneumonia Detection**
 
 This project uses Computer Vision and Deep Learning techniques to detect pneumonia in pediatric chest X-rays. By combining classical models, convolutional neural networks (CNNs), transfer learning techniques, and autoencoders, the system is able to accurately classify whether an image shows signs of pneumonia or is normal.
 
